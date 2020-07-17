@@ -1,5 +1,5 @@
 # WEEK-TWO-AKAN
-#### Description about me,10/07/2020
+#### Akan name generator,10/07/2020
 #### By **Amwata Albert**
 ## Description
 portfolio landing page is a project that briefly describes me as the author.IT talks about my hobbies,my interests,my backgrounds(educational),and even lists
