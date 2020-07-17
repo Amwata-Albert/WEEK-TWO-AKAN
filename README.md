@@ -21,7 +21,7 @@ https://github.com/Amwata-Albert/WEEK-TWO-AKAN
 ### License
 
   GNU GENERAL PUBLIC LICENSE
-                       Amwata Albert, 10 July 2020
+                       Amwata Albert, 17 July 2020
 
  Copyright (C) 2020 Free Project Foundation, Inc.https://github.com/Amwata-Albert/WEEK-TWO-AKAN
  Everyone is permitted to copy and distribute verbatim copies
