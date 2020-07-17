@@ -12,7 +12,7 @@ This project takes a user's birthday and calculates the day of the week they wer
 ## Known Bugs
 isues about this project are correctly solved and codes easy to understand
 ## Technologies Used
-languages used are:HTML and CSS only
+languages used are:HTML  CSS and JS only
 ## Support and contact details
 email:amwataotieno@gmail.com
 phone:+254702775901
