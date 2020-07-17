@@ -2,8 +2,7 @@
 #### Akan name generator,17/07/2020
 #### By **Amwata Albert**
 ## Description
-portfolio landing page is a project that briefly describes me as the author.IT talks about my hobbies,my interests,my backgrounds(educational),and even lists
-of projects i have done.
+This project takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name.
 ## Instructions/setup Requirements
 * This is a great place
 * to read about me
