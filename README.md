@@ -17,7 +17,7 @@ languages used are:HTML  CSS and JS only
 email:amwataotieno@gmail.com
 phone:+254702775901
 ##live link
-https://github.com/Amwata-Albert/WEEK-ONE-IP
+https://github.com/Amwata-Albert/WEEK-TWO-AKAN
 ### License
 
   GNU GENERAL PUBLIC LICENSE
