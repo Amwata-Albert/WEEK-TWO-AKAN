@@ -1,11 +1,87 @@
 body{
-    background-color:darkgoldenrod;
+    background-color:darkgoldenro;
+    color:whitesmoke;
+    font-family: fantasy;
+    
+
 }
 .class{
     text-align: center;
-    margin-top: 300px;
-    
+    margin-top: 5%;
+    font-style: itaic;
+    color:burlywood;
+    font-family:'Ribeye';
 }
 .output{
     background-color: darkgoldenrod;
+}
+nav{
+text-align: center;
+color: white;
+
+}
+nav ul{
+    display: inline-flex;
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    padding: 7px;
+    color: black;
+    color:lightsalmon;
+
+}
+
+nav ul li a:hover{
+    color:whitesmoke;
+}
+.header{
+background-color:darkblue;
+height: 100px;
+
+}
+.form{
+    float: center;
+    align-content: center;
+    /* margin-left: 10%; */
+    /* margin-top: 5%; */
+}
+.bottom-right{
+    float: right;
+    width: 50%;
+    margin-top: 50px;
+}
+.bottom-left{
+    float: left;
+    width: 40%;
+    margin-left: 10%;
+    margin-top: 50px;
+}
+.bottom-right i, .bottom-left i{
+width: 30%;
+}
+.bottom2{
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    border-top: 5px solid black;
+    float: left;
+    margin-top: 50px;
+}
+footer{
+    background-color:darkblue;
+    height: 200px;
+}
+.sec1{
+
+    background-image: url('images/akan.jpg');
+    min-height: 900px;
+    text-align: center;
+    color:lightcyan;
+}
+.middle{
+    margin-top: 15%;
+    color:darkorange;
+    font-size: large;
+    margin-left: 8%;
 }

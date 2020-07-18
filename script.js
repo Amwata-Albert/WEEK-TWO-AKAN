@@ -13,7 +13,7 @@ function akan(){
     // var month=document.getElementById('date').innerHTML=dob.getMonth();
     // var year=document.getElementById('date').innerHTML=dob.getFullYear();
    
-    window.location.href="output.html";
+   
    
 
     if(year>=1000&&year<2021){
@@ -29,13 +29,18 @@ function akan(){
                 if(gender=="male"){
 
                     let date1=akanMales[date.getDay()];
+                    location.href="output.html";
                     document.write("Your Akan Name Is  " + date1);
+                    // location.href="output.html";
                     
                    
                 }
                 else{
                 let date2=akanFemales[date.getDay()];
+                location.href="output.html";
                 document.write("Your Akan Name Is  " + date2);
+                // location.href="output.html";
+              
                 
                 }
 
