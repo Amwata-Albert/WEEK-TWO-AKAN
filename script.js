@@ -30,7 +30,7 @@ function akan(){
 
                     let date1=akanMales[date.getDay()];
                     location.href="output.html";
-                    document.write("Your Akan Name Is  " + date1);
+                    alert("Your Akan Name Is  " + date1);
                     // location.href="output.html";
                     
                    
@@ -38,7 +38,7 @@ function akan(){
                 else{
                 let date2=akanFemales[date.getDay()];
                 location.href="output.html";
-                document.write("Your Akan Name Is  " + date2);
+                alert("Your Akan Name Is  " + date2);
                 // location.href="output.html";
               
                 
@@ -46,15 +46,15 @@ function akan(){
 
             }
             else{
-                document.write("enter valid day");
+                alert("enter valid day");
             }
         }
         else{
-            document.write("enter valid month");
+            alert("enter valid month");
         }
     }
     else{
-        document.write("enter valid year");
+        alert("enter valid year");
     }
 
  }
