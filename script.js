@@ -29,7 +29,7 @@ function akan(){
                 if(gender=="male"){
 
                     let date1=akanMales[date.getDay()];
-                    location.href="output.html";
+                    // location.href="output.html";
                     alert("Your Akan Name Is  " + date1);
                     // location.href="output.html";
                     
@@ -37,7 +37,7 @@ function akan(){
                 }
                 else{
                 let date2=akanFemales[date.getDay()];
-                location.href="output.html";
+                // location.href="output.html";
                 alert("Your Akan Name Is  " + date2);
                 // location.href="output.html";
               
